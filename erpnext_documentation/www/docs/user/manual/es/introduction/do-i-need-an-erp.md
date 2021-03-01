@@ -1,23 +1,31 @@
-<!-- add-breadcrumbs -->
-# Do I Need An Erp
+---
+title: ¿Necesito un ERP?
+add_breadcrumbs: 1
+show_sidebar: 0
 
-ERPNext es una herramienta moderna que no solo abarca el módulo de contabilidad,
-sino que también, cubre todas las otras funciones de su negocio en una plataforma integrada.
-Tiene muchos beneficios sobre los sistemas tradicionales de contabilidad y otros ERP en el mercado.
+metatags:
+ description: ERPNext es una herramienta moderna que abarca no sólo la contabilidad, sino que también, cubre todas las otras funciones de su negocio en una plataforma integrada. Tiene muchos beneficios sobre los sistemas tradicionales de contabilidad y sobre otros ERP existentes en el mercado.
+ keywords: frappe, nuevas características erpnext, erp, erp de código abierto, erp gratuito, seguridad, documentación
+---
+
+# ¿Necesito un ERP?
+
+ERPNext es una herramienta moderna que abarca no sólo la contabilidad, sino que también, cubre todas las otras funciones de su negocio en una plataforma integrada. Tiene muchos beneficios sobre los sistemas tradicionales de contabilidad y sobre otros ERP existentes en el mercado.
 
 ### Beneficios sobre los sistemas de contabilidad tradicionales:
 
-  * Es más que solo contabilidad! Gestionar inventario, facturación, cotizaciones, clientes potenciales, nómina y mucho más.
-  * Mantiene toda tu información segura y en un solo lugar. No siga buscando sus datos cuando más lo necesitas en diferente hojas de calculo y en diferentes ordenadores.
- Gestiona a todos tus empleados en el mismo lugar. Todos los usuarios obtienen información actualizada.
-  * No más trabajo doble. No introduzcas la misma información desde su procesador de textos a su herramienta de contabilidad. Todo está integrado!
-  * Manten un historial. Obten el historial completo de un cliente o un acuerdo en un solo lugar
+* Es más que solo contabilidad! Gestión de inventario, facturación, cotizaciones, clientes potenciales, nómina y mucho más.
+* Mantiene toda su información segura y en un solo lugar. No siga buscando datos cuando los necesite en hojas de cálculo y diferentes ordenadores.
+* Gestione a todos sus empleados en el mismo lugar.
+* Todos los usuarios obtienen la misma información actualizada.
+* Deje el trabajo repetitivo. No introduzca la misma información desde su aplicación de texto a su herramienta de contabilidad. !Está todo integrado!
+* Realice un seguimiento. Obtenga el historial completo de un cliente o un acuerdo en un solo lugar.
 
 ### Beneficios sobre ERPs más grandes
 
-  * $$$ - Ahorra dinero.
-  * **Más facíl de configurar:** Grandes ERP son extramadamente complicados para configurar y van a preguntar demasiadas preguntas amtes de que puedas hacer algo utíl.
-  * **Más facíl de usar:** Una moderna y limpia interfaz web va a mantener sus usuarios contentos y en un entorno mas familiar.
-  * **Código Abierto :** Este sistema es completamente gratis y puedes instalarlo/configurarlo donde desees.
+  * $$$ - Ahorre dinero.
+  * **Más fácil de configurar:** Los Grandes ERPs son notoriamente difíciles de configurar y te harán un millón de preguntas antes de que pueda hacer algo significativo.
+  * **Más fácil de usar:** Una moderna y limpia interfaz web va a mantener a sus usuarios contentos y en un entorno más familiar.
+  * **Código Abierto:** Este sistema es completamente gratis y puede instalarlo/configurarlo donde desee.
 
 {next}

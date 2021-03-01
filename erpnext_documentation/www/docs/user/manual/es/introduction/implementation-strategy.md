@@ -1,35 +1,42 @@
-<!-- add-breadcrumbs -->
-# Implementation Strategy
+---
+title: Estrategia de Implementación
+add_breadcrumbs: 1
+show_sidebar: 0
 
-Antes de que empieces a manejar todas tus operaciones en ERPNext, primero
-deberías estar familiarizado con el sistema y los términos que utiliza.
-	Por esa razón recomendamos que la implementación pase en dos fases.
+metatags:
+ description: Antes de comenzar a administrar sus Operaciones en ERPNext, primero debe familiarizarse con el sistema y los términos utilizados. Para ello recomendamos que la implementación se realice en dos fases.
+ keywords: frappe, nuevas características erpnext, erp, erp de código abierto, erp gratuito, seguridad, documentación
+---
 
-  * La **Fase de Prueba**, donde introduces información de prueba que representan sus transacciones del día a día y la **Fase de Producción**, donde comenzamos a introducir información real.
+# Estrategia de Implementación
+
+Antes de comenzar a administrar sus Operaciones en ERPNext, primero debe familiarizarse con el sistema y los términos utilizados. Para ello recomendamos que la implementación se realice en dos fases.
+
+* La **Fase de Prueba**, donde ingresa registros ficticios que representan sus transacciones diarias y la **Fase en Vivo**, donde comenzamos a introducir información real.
 
 ### Fase de Prueba
 
-  * Leer el manual
-  * Crea una cuenta gratis en [https://erpnext.com](https://erpnext.com) (La forma más facíl de experimental).
-  * Crea su primer Cliente, Suplidor y Producto. Agrega varios de estos para que se familiarice con ellos.
-  * Crea un Grupo de Clientes, Grupo de Productos, Almacenes, Grupo de Suplidores, para que puedas clasificar sus productos.
-  * Completar un ciclo estandar de ventas - Iniciativa > Oportunidad > Cotización > Orden de Venta > Nota de Entrega > Factura de Venta > Pago (Entrada de diario)
-  * Completa un ciclo estandar de compra - Solicitud de Material > Orden de Compra > Recibo de Compra > Pagos (Entrada de diario).
-  * Completar un ciclo de manofactura (si aplica) - BOM > Herramienta de Planificación de Producción > Orden de Producción > Problema de material
-  * Replicar un escenario de su día a día dentro del sistema.
-  * Crea un custom fields, formato de impresión, etc como sea requerido.
+* Leer el manual
+* Cree una cuenta gratuita en [https://erpnext.com](https://erpnext.com) (La forma más fácil de experimentar).
+* Crea su primer Cliente, Proveedor y Producto. Añada algunos más para familiarizarse con ellos.
+* Cree Grupos de Clientes, Grupos de Productos, Almacenes, Grupos de Proveedores, para que pueda clasificar sus Productos.
+* Complete un ciclo estándar de ventas - Iniciativa > Oportunidad > Cotización > Orden de Venta > Nota de Entrega > Factura de Venta > Pago (Entrada de diario)
+* Complete un ciclo estándar de compras - Solicitud de Materiales > Orden de Compra > Recibo de Compra > Pagos (Entrada de diario).
+* Completar un ciclo de fabricación (si corresponde) - LdM > Herramienta de Planificación de Producción > Orden de Producción > Problema de material
+* Replica un escenario de la vida real en el sistema.
+* Cree campos personalizados, formatos de impresión, etc según sea necesario.
 
-### Fase de Producción
+### Fase en Vivo
 
-Una vez ya estes falimiliarizado con ERPNext, inicia introduciendo la información real!
+Una vez que esté familiarizado con ERPNext, ¡Comience a ingresar sus datos reales!
 
-  * Borra toda la información de prueba de la cuenta o inicia con una nueva instalación.
-  * Si solo quieres borrar las transacciones y no las demás informaciones sobre Productos, Clientes, Suplidores, BOM etc, puedes dar click en Eliminar Transacciones de su compañia y inicia desde cero. Para hacerlo, abre el registro de la compañia via Setup > Masters > Company y eliminar las transacciones de su compañia clickeando en el botón **Eliminar las transacciones de la compañia** al final del formulario de la compañia.
-  * También puedes configurar una nueva cuenta en [https://erpnext.com](https://erpnext.com), y usa los 30 días gratis. [Encuentra mas formas de usar ERPNext](/docs/user/manual/es/introduction/getting-started-with-erpnext)
-  * Configura todos los módulos con Grupos de Clientes, Grupos de Productos, Almacenes, BOMs etc.
-  * Importar Clientes, Suplidores, Productos, Contactos y Direcciones usando la Herramienta de Importación de Data.
-  * Importar el inventario de apertura usando la Herramienta de Reconciliación de Inventario.
-  * Crear la entrada de apertura de cuenta usando la Entrada de Diario y crea facturas de ventas pendientes y facturas de compra.
-  * Si necesitas ayuda, [puedes pagar por soporte](https://erpnext.com/pricing) o [preguntar en el foro de la comunidad](https://discuss.erpnext.com).
+* Limpie la cuenta de datos de prueba o mejor, comience una nueva instalación.
+* Si solo desea borrar sus transacciones y no sus datos maestros como Productos, Clientes, Proveedores, LdM, etc., puede hacer clic en eliminar las transacciones de su empresa y comenzar de nuevo. Para hacerlo, abra el Registro de la empresa a través de Contabilidad > Maestros Contables > Compañía y elimine las transacciones de su empresa haciendo clic en el botón **Eliminar transacciones de la compañía** en la parte inferior del formulario de la empresa.
+* También puede configurar una nueva cuenta en [https://erpnext.com](https://erpnext.com) y utilizar la prueba gratuita de 14 días. [Descubra más formas de implementar ERPNext](Getting-started-with-erpnext)
+* Configure todos los módulos con Grupos de Clientes, Grupos de Productos, Almacenes, LdMs, etc.
+* Importar Clientes, Proveedores, Artículos, Contactos y Direcciones usando la herramienta de importación de datos.
+* Importar Inventario inicial utilizando la Herramienta de Reconciliación de Inventarios.
+* Cree asientos contables iniciales a través de Asientos de Diario y cree Facturas de Venta y Facturas de Compra pendientes.
+* Si necesita ayuda, [puede comprar soporte](https://erpnext.com/pricing) o [preguntar en el foro de usuarios](https://discuss.erpnext.com).
 
 {next}

@@ -1,44 +1,41 @@
-<!-- add-breadcrumbs -->
-# The Champion
+---
+title: El Campeón
+add_breadcrumbs: 1
+show_sidebar: 0
 
-<!-- no-heading -->
+metatags:
+ description: Hemos visto docenas de implementaciones de ERP en los últimos años y nos damos cuenta de que la implementación exitosa depende mucho de lo intangibles y la actitud.
+ keywords: frappe, nuevas características erpnext, erp, erp de código abierto, erp gratuito, seguridad, documentación
+---
 
-<h1 class="white">El campeón</h1>
+# El Campeón
 
 <img alt="Champion" class="screenshot" src="{{docs_base_url}}/assets/img/setup/implementation-image.png">
 
-Hemos visto docenas de implementaciones de sistemas ERP en los últimos años
-y nos hemos dado cuenta que una implementación exitosa es más sobre cosas intangibles y actitudes.
+Hemos visto docenas de implementaciones de ERP en los últimos años y nos damos cuenta de que la implementación exitosa depende mucho de lo intangibles y la actitud.
 
-**Los ERP no son requeridos.**
+**No se requieren ERPs.**
 
-Como el ejercicio.
+Como ejercicio.
 
-El cuerpo humano puede que parezca que no requiere ejercicio hoy ni quizas mañana, pero con el pasar del tiempo,
-	si desea mantener su cuerpo y su salud deberá comenzar a hacer ejercicio.
+Puede parecer que el cuerpo humano no requiere ejercicio hoy o incluso mañana, pero a la larga, si desea mantener su cuerpo y su salud, debe subirse a la cinta de correr.
 
-En esta misma forma, ERPs mejoran la salud de su compañia a largo plazo manteniendola ajustada y eficiente.
-  	Mientas más demores en poner las cosas en orden, más tiempo pierdes, y estas más cerca de una desastre mayor.
+De la misma manera, los ERP mejoran la salud de su organización a largo plazo manteniéndola en forma de forma eficiente. Cuanto más se demore en poner las cosas en orden, más tiempo perderá y más cerca estará de un desastre mayor.
 
-Por tanto, cuando comienzas a implementar un ERP, manten la visión en beneficios a largo plazo.
-    	Como el ejercicio, es doloroso al comienzo, pero va a hacer cosas maravillosas si te mantienes haciendolo.
+Entonces, cuando comience a implementar un ERP, mantenga la vista en los beneficios a largo plazo. Al igual que el ejercicio, es doloroso a corto plazo, pero hará maravillas si mantiene el rumbo.
 
 * * *
 
 ## El Campeón
 
-Un ERP significa un cambio en la organización y un cambio no sucede sin exfuerzo.
-Cada cambio requiere un campeón y es la responsabilidad de el campeón el
-organizar y motivar al equipo completo durante la implementación.
-El campeón necesita ser activo en caso que algo salga mal.
+ERP significa cambio en toda la organización y no ocurre sin esfuerzo. Cada cambio requiere un campeón y es el deber del campeón organizar y energizar a todo el equipo hacia la implementación. El campeón debe ser resistente en caso de que algo salga mal.
 
-En muchas organizaciones que hemos visto, frecuentemente el campeón es el dueño o un Administrador.
-	Ocasionalmente, el campeón es una persona externa quien es contratado con un propósito específico.
+En muchas organizaciones que hemos visto, el campeón suele ser el propietario o un gerente senior. De vez en cuando, el campeón es un forastero que es contratado para un propósito particular.
 
-En cualquier caso, debes identificar su campeón primero.
+En cualquier caso, primero debes identificar a tu campeón.
 
-Lo más seguro es que sea **usted!**
+Lo más probable es que seas **tú!**
 
-Comencemos!
+¡Vamos a empezar!
 
 {next}
