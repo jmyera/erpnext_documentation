@@ -17,7 +17,7 @@ metatags:
 4. [Usando ERPNext](/docs/user/manual/es/using-erpnext)
 
 ## 2. Módulos Principales
-1. [Cuentas](/docs/user/manual/es/accounts)
+1. [Contabilidad](/docs/user/manual/es/accounts)
 2. [Inventario](/docs/user/manual/es/stock)
 3. [CRM](/docs/user/manual/es/CRM)
 4. [Ventas](/docs/user/manual/es/selling)
